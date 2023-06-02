@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "bitmaker": "github:TinkerGen/pxt-BitMaker#v0.1.4"
+        "bitmaker": "github:TinkerGen/pxt-BitMaker#v0.1.4",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
